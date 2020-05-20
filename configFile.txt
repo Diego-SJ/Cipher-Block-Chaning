@@ -1,0 +1,18 @@
+¿qué acción deseas realizar?
+e) encriptar    d) desencriptar
+#### accion: d
+
+Elije un metodo:
+1) cesar
+2) mono
+3) desplazamiento
+#### metodo: 2
+
+Ingresa la llave dependiendo el metodo elejido
+1) 8 bits
+2) cadena con los numeros del 1 al 8
+3) binario positivo o negativo
+#### llave: 81726354
+
+Ingresa el valor de iv (8 bits):
+#### IV: 11111111
